@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+January 24, 2020
 
 ### Project Title
-Replace the Project Title
+Udacity Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+This project uses Python code to import US bike share data and answer interesting questions about it by computing descriptive statistics.
+This also includes a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
 ### Files used
-Include the files used
+bikeshare_2.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Fored this repository from: https://github.com/udacity/pdsnd_github
